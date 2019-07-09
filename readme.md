@@ -26,17 +26,33 @@
   - Display campground location on Google Maps.
 
 # Getting Started
----
-This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
 
----
+> This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
 
 # Clone or download this repository
 
 ## Install Dependencies
----
+
+```
  npm install
+```
 
----
+# Built With
 
+## Front-end
 
+- ejs
+- Bootstrap
+
+## Back-end
+
+- express
+- mongoDB
+- mongoose
+- async
+- passport
+- passport-local
+- express-session
+- method-override
+- nodemon 
+- moment
