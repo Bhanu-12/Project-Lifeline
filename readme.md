@@ -36,6 +36,11 @@
 ```
  npm install
 ```
+# Run locally 
+
+```
+type node app.js and run localhost:3000
+```
 
 # Built With
 
